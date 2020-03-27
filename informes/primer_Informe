@@ -1,0 +1,207 @@
+#Sistema "Agenda tu Belleza" 
+
+*Asignatura: Taller de Proyectos de Software
+*Seccion: 01
+*Nombre del Docente: Cristhian Aguilera Carrasco
+*Nombre de los integrantes del grupo: Javiera Alejandra Díaz Segura – Rodrigo Eugenio Velásquez Triviño
+*Fecha de entrega 10-marzo-2020
+
+1. Resumen 1
+2. Descripción del problema	2
+2. Descripción de la empresa o negocio 2a	
+2. Problema u oportunidad	2b
+2. Descripción del modelo de negocios 2c
+2. Descripción de interesados y posibles usuarios	2d
+3. Propuesta de solución 3
+3. Requisitos 3a
+3. Solución propuesta 3b
+3. Estudio de factibilidad 3c
+3.3 Factibilidad Tecnica 3a
+3.3 Factibilidad económica 3b
+3.3 Factibilidad legal 3c
+3.3 Factibilidad operacional 3d
+3.3 Factibilidad ambiental 3e
+4. Alcances y restricciones 4
+4.1 Alcance 4a
+4.2 Limitaciones 4b
+5. Objetivos
+5.1 General 5a
+5.2 Específicos 5b
+6. Referencias bibliográficas
+
+#Resumen
+A comienzos del 2019 se daba inicio al emprendimiento “Divino Hair” en la ciudad de Puerto Montt, 
+el cual estaba en manos de una joven emprendedora: Angela Rios Inostroza, quien decidió dedicarse 
+al embellecimiento femenino apostando por montar un Salón de Belleza, el cual otorga servicios tanto 
+para el cuidado del cabello, el rostro así como también de las manos de sus clientas.
+La dueña del negocio al darse cuenta del éxito de su emprendimiento con los servicios que ella presta,
+busca dar mayor realce a su trabajo y preocuparse un poco más por el marketing que necesita hoy en día 
+su empresa, por tal motivo requiere de un sistema virtual que le permita hacer publicidad de sus trabajos 
+(peinados, manicura, make up, entre otros) y a su vez agendar las horas de sus fieles clientas.
+Cabe señalar, que durante la historia de su negocio, el contacto con sus clientas ha sido principalmente a 
+través de la redes sociales, utilizando Apps tales como Facebook y WhatsApp.
+En definitiva, la Srta. Rios busca encontrar a través del mercado online poder expandir su negocio, 
+pudiendo captar nuevas clientas, demostrandoles a través de esta plataforma la seriedad de su trabajo, 
+el compromiso con el cuidado del cabello, las manos y además que la navegación a través de esta sea amigable 
+y de fácil acceso.
+
+#Descripción del Problema.
+##Descripción de la empresa o negocio.
+“Divino Hair” corresponde a un Salón de Belleza, ubicado en la ciudad de Puerto Montt, siendo su única dueña 
+la Srta. Ángela Ríos Inostroza, quien a través de su emprendimiento otorga servicios para el cuidado del cabello, 
+rostro y manos. 
+Esta emprendedora se dedica a la atención femenina, generando distintos tipos de trabajos como lo son: alisados, 
+maquillaje, manicura, make up, entre otros.
+
+##Problema u oportunidad.
+La problemática que hoy en día envuelve a la dueña del negocio, tiene relación con que todas las clientas se 
+comunican con ella a través de las redes sociales (Apps tales como Facebook y WhatApp) y ello en primer lugar 
+dificulta la comunicación, ya que muchas veces no puede responder oportunamente, dado que se encuentra trabajando 
+en su emprendimiento (única dueña); segundo, si logra establecer contacto con estas mujeres, los mensajes suelen 
+ser poco fluidos o no se interpretan de la mejor manera posible, provocando que en ciertas ocasiones las clientas 
+desistan del servicio de su Salón de Belleza y tercero, dado que el tiempo de la Srta. Rios es limitado, no es capaz 
+de llevar una agenda ordenada con las citaciones de sus clientas, lo que se traduce en que muchas veces existan 
+superposiciones de horarios, vale decir, llegan dos o más usuarias al mismo tiempo, generándose largos tiempos de espera 
+por parte de las clientas.
+Por todo lo anterior, Srta. Angela Rios visualiza que para hacer crecer su idea de negocio y generar una mayor cantidad 
+de clientes que visiten el Salón, requerirá de un sistema web que por un lado permita ordenar todas las horas que van a 
+agendar sus clientas (unificándolo a través de una sola página) y además que por cada servicio se otorgue la facilidad de 
+describir el detalle de la compra (por ejemplo el tipo de peinado, color o diseño de las uñas, tipo de maquillaje, entre otros).
+
+##Descripción del modelo de Negocio################## PENDIENTE.
+
+##Descripción de interesados y posibles usuarios
+La principal interesada corresponde a la dueña de “Divino Hair”, quien a través de la idea del sistema web busca contar con 
+un sistema personalizado, de fácil acceso que le permita a sus clientas agendar sus pedidos desde la comodidad de sus hogares, 
+trabajos u otros y además mostrar su trabajo a los clientes potenciales.
+Las usuarias de este sistema corresponden tanto a la dueña del negocio (manejo del sistema web para organizarlo y dar 
+respuesta a sus usuarias) como también a todas las mujeres que accedan a esta plataforma para contratar servicios del Salón.
+Adicionalmente, se espera que la idea de implementar esta web, se convierta en una idea de negocio que sea posible vender 
+para replicarla en otros Salones de Belleza o similares.
+
+#Propuesta de Solución
+##Requisitos
+Contar con los equipos personales y los software necesarios para el desarrollo del sistema.
+Que la clienta, en este caso, Srta. Rios disponga del tiempo suficiente para reunirse con el equipo que desarrollará 
+su propuesta, de tal manera de obtener los requerimientos específicos del sistema e ir evaluando conjuntamente su desarrollo 
+y evolución.
+
+##Solución Propuesta
+La solución que se propone, es la de crear el sistema que la clienta requiere, de tal manera que contenga módulos 
+relacionados con lo siguiente:
+1. Agendar horas de manera ordenada por parte de sus clientas.
+2. Visualizar y ordenar la agenda de horarios y los cupos asignados por día, semana o mes.
+3. Publicación de los diversos trabajos realizados a las clientas.
+4. Adicionalmente se le ofrece implementar para sus clientas, un sistema de recordatorio de las horas agendadas.
+
+#Estudio de Factibilidad
+##Factibilidad Tecnica
+1. Equipos (hardware): se usarán los equipos de los desarrolladores 
+2. Documentador: Javiera Alejandra Diaz Segura. 
+3. Desarrolladores: Javiera Alejandra Diaz Segura – Rodrigo Eugenio Velásquez Triviño.
+4. Diseñadores: Rodrigo Eugenio Velásquez Triviño.
+5. Enlace de internet: se requiere mínimo 5 Mbps de velocidad de internet por parte del cliente, conexión con el 
+servidor debe existir dentro del horario de trabajo de la empresa.
+##################PENDIENTE IMAGEN#####################
+##Factibilidad Economica
+|------------------------------------------|------------------------- |--------------|
+|Software                                  | Hardware                 | Observaciones|
+|------------------------------------------|------------------------- |--------------|
+|1. Navegador web (Chrome, Opera, Mozilla) |1. Requisitos del sistema.|              | 
+|------------------------------------------|------------------------- |--------------|
+|2. Microsoft Office                       |2. Intel core i5.         |              | 
+|------------------------------------------|------------------------- |--------------|
+|3. Gestor de base de datos SQL Server.    |3. 4GB Ram.               |              | 
+|------------------------------------------|------------------------- |--------------|
+|3. IDE Visual Studio                      |                          |              | 
+|------------------------------------------|------------------------- |--------------|
+|4. Sistema operativo (Windows7/10)        |                          |              | 
+|------------------------------------------|------------------------- |--------------|
+
+##Factibilidad Economica.
+|-----------------------------------------|------------------------|
+| Software IDE Visual Studio, SQL Server  | $0.                    |
+|-----------------------------------------|------------------------|
+| Licencias Microsoft Office              | $50.000.               |
+|-----------------------------------------|------------------------|   
+| Hosting Neothek                         |  $48.000.              |
+|-----------------------------------------|------------------------|
+| Equipos                                 |  $0.                   |
+|-----------------------------------------|------------------------|
+| Viajes (Para realización de reuniones). | $1.200 c/u por viaje.  |
+|-----------------------------------------|------------------------|
+| Sueldo desarrollador                    | $400.000 mensual.      |
+|-----------------------------------------|------------------------|
+| Paga documentador                       |  $360.000 mensual.     |
+|-----------------------------------------|------------------------|
+| Paga Diseñador                          |  $330.000 mensual.     |
+|-----------------------------------------|------------------------|
+
+##Factibilidad Legal
+Debido a que interactuamos directamente con el dueño de la empresa este nos proporciona el derecho de 
+utilizar su logo institucional y colores corporativos (nos da derecho a utilizar la imagen de la empresa).
+Adicionalmente las licencias a usar serán mayoritariamente gratis, con las excepciones ya estando adquiridas
+(Microsoft Office). 
+
+##Factibilidad Operacional
+Jefe de Proyecto: Quien mantendrá contacto directamente con el Cliente y registrará todos los requerimientos obtenidos.
+Analista: Es quien Analiza todos los requerimientos obtenidos y genera toda la documentación correspondiente al proyecto, 
+adicionalmente genera los diagramas correspondientes.
+Desarrolladores: Será la totalidad del grupo quienes desarrollarán el sistema para la entrega final del sistema.
+Diseñadores: serán los mismos integrantes del grupo quienes, se dedicarán al diseño del sistema y se orientarán en base a 
+los requerimientos del cliente y sus colores y diseño institucional.
+Esta aplicación viene a resolver el problema con la agenda de horas para trabajos de Manicure, Make up, peinados, entre otros.
+Reemplazando la manera que tenia antes para organizar su agenda en base al registro que le dejaba las redes sociales 
+(Facebook, WhatsApp), entregandole la opción de realizarlo mediante un sisterma web. La cual puede ser accedida de cualquier 
+lugar, mientras tenga acceso a internet y un dispositivo para navegar.
+Esto se hace posible gracias a la ficilidad con las personas hoy en dia pueden acceder y manejar estos productos, 
+lo que da como resultado que los usuarios que utilicen el sistema, puedan tener una experiencia sin mayores problemas y el 
+tiempo de adaptación no sea tan prolongado. 
+En caso de las licencias para la base de datos, están serán vistas en conjunto con el hosting a utilizar.
+
+##Factibilidad Ambiental
+En esta ocasión, el sistema web que se desea desarrollar es un sistema de agenda de horas y recordatorios de trabajos por 
+realizar, por lo que en ningún momento se ve afectado o alterado el medio ambien, es por eso que no se realizar estudio de 
+factibilidad ambiental.
+
+##Alcance y Restricciones.
+###Alcance
+1.El proyecto a desarrollar permitirá almacenar y  centralizar información de los clientes presentes y futuros de la peluquería “Divino Hair”, con el fin de gestionar de manera correcta y ordenada las labores de la empresa.
+
+2.El sistema permitirá a los usuarios (clientes del salón) tengan la posibilidad de reservar horas online y visualizar información sobre las labores que se desempeñan en la empresa.
+
+3.El sistema permitirá a los trabajadores del salón, gestionar las reservas de horas de manera más ordenada , facilitando mediante notificaciones el recordatorio de su consulta.
+
+4.La dueña del salón busca atraer más clientas con el desarrollo del sistema web , aumentando así, el numero de sus clientes.
+
+5.Una vez listo el sistema , se desea incorporar el medio de pago Paypal a la página web, con el fin de que los clientes puedan realizar el pago de los trabajos realizados o a realizar (La Señorita Angela, menciona que en un futuro, se pueda implementar la metodologia de pago “Paypal” para uso de sus clientas).
+
+6.El sistema podrá ser utilizado en navegadores web como: Google Chrome, Mozilla Firefox. 
+
+7.Los usuarios contarán con un sistema de interfaz amigable y de fácil uso para solicitar los servicios y así generar una mejor experiencia de usuario.
+
+###Limitaciones
+1.Debido a la contingencia sanitaria que ocurre en el país, puede que limite el desarrollo del proyecto y esté propenso a retrasos en las tareas a realizar.
+
+2.La fecha establecida al comienzo del proyecto, en conjunto de los recursos economicos descritos anteriormente. Son variantes dependientes, ya que en cualquiera de las dos variantes que se modifiquen en el transcurso del proyecto, se pueden ver afectadas.
+
+3.El salon de belleza no cuenta con un logo institucional propio, por lo que el cliente deberá obtener el suyo, asegurándonos que el logo sea único y exclusivo , todo esto con el fin de cumplir las normas legales y que no exista acusación de “Plagio”.
+
+4.El personal podría oponerse al cambio de actividades que el sistema pueda generar. 
+
+5.El personal que opere el sistema deberá tener conocimientos básicos en computación y no podria existir disposicion para entender y aplicar los conocimientos necesarios para aplciar el sistema.
+
+#Objetivos
+##General.
+Consolidar los servicios prestados por el Salón de Belleza, a través de la implementación de un sistema que fidelice a 
+los clientes por el fácil acceso e innovación del mismo.
+
+##especificos.
+1.Realizar una investigación preliminar para el desarrollo del sistema informático.
+2.Realizar un análisis de requerimientos para el diseño y construcción del sistema informático.
+3.Diseñar un sistema informático para la administración, control de agenda de horas y servicios que otorga la empresa.
+4.Programar el sistema informático para la administración, control de agenda de horas y servicios que otorga la empresa.
+5.Diseñar y ejecutar las pruebas pertinentes para comprobar el correcto funcionamiento del sistema para la administración, 
+control de agendas de horas y servicios que otorga la empresa.
+
+
